@@ -4,7 +4,7 @@ Welcome to a site that iluminates some of the lessons that Pete has learned alon
 
 ## Topics
 
-[Road to TDD](road-to-tdd/pete-the-programmer.github.io)
+[Road to TDD](/road-to-tdd/)
 
 
 
