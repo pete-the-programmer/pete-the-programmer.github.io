@@ -6,9 +6,6 @@ Welcome to a site that illuminates some of the lessons that Pete has learned alo
 
 [The road to TDD](/road-to-tdd/)
 
-[Making F# work](/fsharp/)
-
-[Commercial Coding](/commercial-coding/)
 
 
 
