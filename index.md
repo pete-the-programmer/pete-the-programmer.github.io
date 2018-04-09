@@ -1,13 +1,12 @@
 # Pete the Programmer
 
-Welcome to a site that illuminates some of the lessons that Pete has learned along his programming journey.
+Welcome fellow traveller on your programming journey!
+
+
 
 ## Topics
 
 [The road to TDD](/road-to-tdd/)
-
-
-
 
 
 ---
