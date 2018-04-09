@@ -13,4 +13,4 @@ Welcome fellow traveller on your programming journey!
 ---
 ###### Supported as an educational outreach of [Haumohio](http://haumohio.com)
 
-[^1]: https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!
+[^1]: [from Zelda](https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!)
