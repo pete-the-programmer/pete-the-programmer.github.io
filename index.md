@@ -5,7 +5,7 @@ Welcome fellow traveller on your programming journey!
 
 ## Topics
 
-![It’s dangerous to go alone! ~~Take this~~ Read these...](images/ItsDangerous.gif)[^1]
+![It’s dangerous to go alone! ~~Take this~~ Read these...](images/pete_and_quote.png)[^1]
 
 [The road to TDD](/road-to-tdd/)
 
