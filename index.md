@@ -5,7 +5,7 @@ Welcome fellow traveller on your programming journey!
 
 ## Topics
 
-> [It’s dangerous to go alone! ~~Take this~~ Read these][1]
+> It’s dangerous to go alone! ~~Take this~~ Read these...[^1]
 
 [The road to TDD](/road-to-tdd/)
 
@@ -13,4 +13,4 @@ Welcome fellow traveller on your programming journey!
 ---
 ###### Supported as an educational outreach of [Haumohio](http://haumohio.com)
 
-[1]:https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!
+[^1]: https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!
