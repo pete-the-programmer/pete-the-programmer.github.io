@@ -6,4 +6,7 @@
 .markdown-body {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
   font-size: 18px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: rgba(0, 0, 0, 0.85)
 }
