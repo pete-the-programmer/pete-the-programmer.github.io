@@ -1,6 +1,6 @@
 # Pete the Programmer
 
-Welcome to a site that iluminates some of the lessons that Pete has learned along his programming journey.
+Welcome to a site that illuminates some of the lessons that Pete has learned along his programming journey.
 
 ## Topics
 
