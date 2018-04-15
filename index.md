@@ -1,3 +1,8 @@
+---
+title: Pete
+description: Pete the Programmer
+---
+
 # Pete the Programmer
 
 Welcome fellow traveller on your programming journey!
