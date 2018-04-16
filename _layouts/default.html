@@ -1,0 +1,59 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @claruspeter
+Sign out
+0
+0 0 pete-the-programmer/road-to-tdd
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+road-to-tdd/_layouts/default.html
+d66b5d8  3 minutes ago
+@claruspeter claruspeter Update default.html
+    
+30 lines (25 sloc)  826 Bytes
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <header>
+        <h1>{{ page.title | site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | site.description | default: site.github.project_tagline }}</p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+  </body>
+</html>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
