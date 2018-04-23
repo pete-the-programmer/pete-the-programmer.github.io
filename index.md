@@ -13,7 +13,7 @@ The topics that are commonly discussed include:
 ![TDD](images/redgreenrefactor.png)
 
 - F#.  The functional language from Microsoft, and sister language to C#.  Why should use it, how it fits within the .Net ecosystem, and how your team can reap the benefits of functional programming.
-
+![F#](images/Fsharp.png)
 
 ## More depth?
 
