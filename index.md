@@ -9,7 +9,8 @@ This site is dedicated to the simple proliferation of information related to edu
 
 The topics that are commonly discussed include:
 
-- Test driven developement.  What it means, getting started in your own team, and how it fits within the design and relaiablity aspects of software large and small.
+- Test driven development.  What it means, getting started in your own team, and how it fits within the design and relaiablity aspects of software large and small.
+![TDD](images/redgreenrefactor.png)
 
 - F#.  The functional language from Microsoft, and sister language to C#.  Why should use it, how it fits within the .Net ecosystem, and how your team can reap the benefits of functional programming.
 
