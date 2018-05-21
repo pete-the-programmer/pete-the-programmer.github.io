@@ -6,14 +6,14 @@ description:
 Welcome fellow traveller on your programming journey!
 
 This site is dedicated to the simple proliferation of information related to educational efforts of Pete the Programmer.
-
 The topics that are commonly discussed include:
 
-- Test driven development.  What it means, getting started in your own team, and how it fits within the design and relaiablity aspects of software large and small.
-![TDD](images/redgreenrefactor.png)
+- ![TDD](images/redgreenrefactor.png)
+Test driven development.  What it means, getting started in your own team, and how it fits within the design and relaiablity aspects of software large and small.
 
-- F#.  The functional language from Microsoft, and sister language to C#.  Why should use it, how it fits within the .Net ecosystem, and how your team can reap the benefits of functional programming.
-![F#](images/Fsharp.png)
+- ![F#](images/Fsharp.png)
+F#.  The functional language from Microsoft, and sister language to C#.  Why you should use it, how it fits within the .Net ecosystem, and how your team can reap the benefits of functional programming.
+
 
 ## More depth?
 
