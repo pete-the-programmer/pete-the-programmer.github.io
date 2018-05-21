@@ -22,10 +22,12 @@
 }
 
 li > img, li > p > img {
-    width: 20%;
+    width: 10%;
     height: auto;
     vertical-align: top;
     float: left;
+    margin-bottom: 1em;
+    margin-right: 1em;
 }
 
 h1, h2, li > p {

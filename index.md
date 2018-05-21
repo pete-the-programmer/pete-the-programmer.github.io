@@ -9,7 +9,7 @@ This site is dedicated to the simple proliferation of information related to edu
 The topics that are commonly discussed include:
 
 - ![TDD](images/redgreenrefactor.png)
-Test driven development.  What it means, getting started in your own team, and how it fits within the design and relaiablity aspects of software large and small.
+Test driven development.  What it means, getting started in your own team, and how it fits within the design and reliability aspects of software large and small.
 
 - ![F#](images/Fsharp.png)
 F#.  The functional language from Microsoft, and sister language to C#.  Why you should use it, how it fits within the .Net ecosystem, and how your team can reap the benefits of functional programming.
@@ -24,5 +24,3 @@ Anything from an [AMA](https://www.urbandictionary.com/define.php?term=AMA) over
 
 ---
 ###### Supported as an educational outreach of [Haumohio](http://haumohio.com)
-
-[^1]: [modified from Zelda](https://en.wikipedia.org/wiki/It%27s_dangerous_to_go_alone!)
