@@ -1,0 +1,115 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+body.brand_napkin{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+
+    .section {
+        background: url('napkin/border.png') left top repeat-x;
+    }
+
+    .nav {
+        background: url('napkin/border.png') left bottom repeat-x;
+    }
+
+    .nav .topmenu .login, .nav .topmenu .logout {
+        background: url('napkin/button.png') center center no-repeat ;
+        background-size: contain;
+    }
+    .nav .topmenu .theme {
+      background: url('napkin/square.png') center center no-repeat;
+      background-size: contain;
+      height: 1.4em;
+    }
+    .nav .topmenu .theme.active{
+      filter: invert(0.1);
+      z-index: 1000;
+    }
+    .nav .topmenu .theme:hover .menu {
+      display: block;
+    }
+    .nav .menu li{
+      background: white url('napkin/border.png') left bottom repeat-x;
+    }
+    footer{
+        background: url('napkin/border.png') left top repeat-x;
+    }
+
+    .pageBack{
+        background-position: left top;
+        background-repeat: repeat;
+        background-size: auto;
+    }
+
+    .pageContent img {
+        max-height: 12em;
+    }
+
+    li.visited a::before{
+      content:url('napkin/tick.png');
+    }
+
+    a, a:visited {
+        text-decoration: none;
+        color: navy;
+    }
+
+    .hamburger {
+        background: url('napkin/hamburger.png') no-repeat center right;
+        background-size: contain;
+        color: transparent;
+    }
+
+    /* hash? */
+    .moduleCompletion .unread {
+        background-color: white;
+    }
+    .moduleCompletion .started {
+        background: url('napkin/hash-yellow.png') no-repeat center center;
+        background-size: cover;
+    }
+    .moduleCompletion .complete {
+        background: url('napkin/hash-green.png') no-repeat center center;
+        background-size: cover;
+    }
+
+    .answered_correct {
+        outline: 3px lightgreen solid;
+    }
+    .correct_answer{
+      outline: 1px red dotted;
+    }
+
+    code{
+      font-size: 60%;
+      color: crimson;
+    }
+
+    blockquote {
+      border: 1px solid #222;
+      display: inline-block;
+      padding: 0 1em;
+      background: url('napkin/hash-yellow.png') center center no-repeat;
+      background-size: cover;
+      text-shadow: 2px 2px 2px white;
+    }
+    h2 + blockquote, h3 + blockquote {
+      background: white;
+      font-size: 150%;
+    }
+
+    ol ol {
+      list-style-type: lower-alpha;
+    }
+    .toast{
+      background: url(napkin/hash-green.png) no-repeat center center;
+      background-size: cover;
+      border: 1px solid #222;
+      z-index: 9999;
+      text-align: center;
+    }
+
+}

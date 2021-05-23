@@ -1,6 +1,8 @@
 ---
 title: Pete the Programmer
 description: 
+brand: napkin
+footer_text: Supported as an educational outreach of [Haumohio](http://haumohio.com)
 ---
 
 Welcome fellow traveller on your programming journey!
@@ -22,5 +24,3 @@ You are welcome to peruse the site at your leisure.
 If you would like to go into more depth on these topics, [contact __Pete__](contact.md) to arrange an in-person discussion.
 Anything from an [AMA](https://www.urbandictionary.com/define.php?term=AMA) over a lunch break to a multi-day course on any of the topics listed above.  Initial conversations are complimentary. Normal training rates apply.
 
----
-###### Supported as an educational outreach of [Haumohio](http://haumohio.com)
